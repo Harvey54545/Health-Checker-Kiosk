@@ -70,21 +70,16 @@ BMI values below 18.5 are classified as Underweight with a blue indicator, recom
 
 ## Live Demo
 
-[View Live Demo](https://your-username.github.io/health-checker-kiosk/)
+[View Live Demo]([https://your-username.github.io/health-checker-kiosk/](https://harvey54545.github.io/Health-Checker-Kiosk/
+))
 
 Replace the link above with your actual GitHub Pages URL after deployment.
 
 ---
 
-## Screenshots
-
-Insert a screenshot of the form page here. Insert a screenshot of a BMI result here. Insert a screenshot of the Google Sheet with test submissions here.
-
----
-
 ## Author
 
-Your Name
+Harvey Laurence P. Rullan
 Campus Health Self-Check Kiosk
 IT Professional Elective Lab 5
 
